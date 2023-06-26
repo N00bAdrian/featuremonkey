@@ -9,7 +9,7 @@ readme = "README.rst"
 [tool.poetry.dependencies]
 python = "^3.8"
 six = "^1.16.0"
-importlib = "^1.0.4"
+# importlib = "^1.0.4"
 
 
 [tool.poetry.group.test.dependencies]
